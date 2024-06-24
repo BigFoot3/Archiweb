@@ -1,0 +1,49 @@
+<div class="user-management-container">
+  <h2>Gestion des utilisateurs</h2>
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+  <form (ngSubmit)="createUser()">
+    <div>
+      <label for="new-username">Nom d'utilisateur</label>
+      <input type="text" id="new-username" [(ngModel)]="newUser.username" name="username" required>
+    </div>
+    <div>
+      <label for="new-password">Mot de passe</label>
+      <input type="password" id="new-password" [(ngModel)]="newUser.password" name="password" required>
+    </div>
+    <div>
+      <label for="new-role">Rôle</label>
+      <select id="new-role" [(ngModel)]="newUser.role" name="role">
+        <option value="user">User</option>
+        <option value="admin">Admin</option>
+        <option value="organization">Organization</option>
+      </select>
+    </div>
+    <button type="submit">Créer un utilisateur</button>
+  </form>
+  <table>
+    <thead>
+      <tr>
+        <th>Nom d'utilisateur</th>
+        <th>Rôle</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users">
+        <td>{{ user.username }}</td>
+        <td>
+          <select [(ngModel)]="user.role" (change)="updateRole(user._id, user.role)">
+            <option value="user">User</option>
+            <option value="admin">Admin</option>
+            <option value="organization">Organization</option>
+          </select>
+        </td>
+        <td>
+          <button (click)="deleteUser(user._id)">Supprimer</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

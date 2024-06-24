@@ -1,0 +1,8 @@
+{"error":"User validation failed: username: Path `username` is required., password: Path `password` is required., role: Path `role` is required.","level":"error","message":"Error registering user","service":"auth-service","timestamp":"2024-06-20T13:12:27.074Z"}
+{"error":"User validation failed: username: Path `username` is required., password: Path `password` is required.","level":"error","message":"Error registering user","service":"auth-service","timestamp":"2024-06-22T23:58:18.398Z"}
+{"error":"User validation failed: username: Path `username` is required., password: Path `password` is required.","level":"error","message":"Error registering user","service":"auth-service","timestamp":"2024-06-22T23:58:21.527Z"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Erreur lors de la connexion de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T06:49:50.826Z"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Erreur lors de la connexion de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T06:49:57.856Z"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Erreur lors de l'enregistrement de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T06:50:07.820Z"}
+{"error":"connect ETIMEDOUT 52.47.184.107:27017","level":"error","message":"Erreur lors de la connexion de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T08:32:40.706Z"}
+{"error":"connect ETIMEDOUT 52.47.184.107:27017","level":"error","message":"Erreur lors de la connexion de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T08:32:55.147Z"}

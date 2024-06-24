@@ -1,0 +1,13 @@
+<div>
+  <h1>Bienvenue sur {{ title }}</h1>
+  <nav *ngIf="!isLoginRoute()">
+    <ul>
+      <li><a (click)="logout()">Se déconnecter</a></li>
+      <li><a routerLink="/materials">Materiels</a></li>
+      <li><a routerLink="/account">Compte</a></li>
+      <li *ngIf="isAdmin()"><a routerLink="/user-management">Gestion des utilisateurs</a></li>
+      <li *ngIf="isAdmin()"><a routerLink="/request-management">Gestion des demandes</a></li>
+    </ul>
+  </nav>
+  <router-outlet></router-outlet>
+</div>

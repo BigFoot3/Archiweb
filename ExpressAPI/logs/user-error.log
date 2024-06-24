@@ -1,0 +1,1 @@
+{"error":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: \"user3\" }","level":"error","message":"Failed to add user","service":"user-service","timestamp":"2024-06-23T01:04:27.782Z"}

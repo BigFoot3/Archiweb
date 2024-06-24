@@ -1,0 +1,22 @@
+<div class="requests-container">
+  <h2>Gestion des Demandes</h2>
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+  <div *ngIf="successMessage" class="success">
+    {{ successMessage }}
+  </div>
+  <ul>
+    <li *ngFor="let request of requests">
+      <div>
+        <h3>{{ request.material?.name || 'Nom non disponible' }}</h3>
+        <p>Utilisateur: {{ request.user?.username || 'Utilisateur non disponible' }}</p>
+        <p>Localisation demandée: {{ request.location }}</p>
+        <div>
+          <button (click)="approveRequest(request)" [disabled]="!request.material || !request.user">Approuver</button>
+          <button (click)="rejectRequest(request)" [disabled]="!request.material || !request.user">Rejeter</button>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,18 @@
+<div class="account-container">
+    <h2>Informations du Compte</h2>
+    <div *ngIf="errorMessage" class="error">
+      {{ errorMessage }}
+    </div>
+    <form (ngSubmit)="updateUser()">
+      <div>
+        <label for="username">Nom d'utilisateur</label>
+        <input type="text" id="username" [(ngModel)]="user.username" name="username" required>
+      </div>
+      <div>
+        <label for="password">Mot de passe</label>
+        <input type="password" id="password" [(ngModel)]="user.password" name="password">
+      </div>
+      <button type="submit">Mettre à jour</button>
+    </form>
+  </div>
+  

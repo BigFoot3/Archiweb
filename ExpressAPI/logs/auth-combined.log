@@ -1,0 +1,426 @@
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-20T13:42:39.705Z","userId":"667431cf671026b123fa6561"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-20T13:42:58.726Z","userId":"667431cf671026b123fa6561"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-20T13:42:58.764Z","username":"testuser5"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-20T14:17:38.015Z","userId":"66743a0118bae66bef8c654c"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-20T14:18:21.639Z","userId":"66743a0118bae66bef8c654c"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-20T14:18:21.674Z","username":"testuser1"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-20T14:23:01.467Z","userId":"66743b45c34ac3d32e9aa810"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-20T14:23:07.245Z","userId":"66743b45c34ac3d32e9aa810"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-20T14:23:07.287Z","username":"testuser1"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-20T14:25:06.725Z","userId":"66743bc2f7dcd1ee34119160"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-20T14:25:10.235Z","userId":"66743bc2f7dcd1ee34119160"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-20T14:25:10.379Z","username":"testuser1"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-20T14:27:27.725Z","userId":"66743c4f5a993e72670c13e8"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-20T14:27:31.274Z","userId":"66743c4f5a993e72670c13e8"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-20T14:27:31.449Z","username":"testuser1"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-20T14:32:16.110Z","userId":"66743d6fbbacb77af2faa1f0"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-20T14:32:20.555Z","userId":"66743d6fbbacb77af2faa1f0"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-20T14:32:20.689Z","userId":"66743d6fbbacb77af2faa1f0"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-20T15:12:11.220Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-20T15:15:21.970Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-20T15:15:22.087Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-20T19:30:12.957Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-20T19:30:13.284Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T10:53:45.897Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T10:53:46.256Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T10:55:18.724Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T10:55:19.055Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T10:55:51.732Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T10:55:52.023Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T11:03:20.027Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T11:03:20.297Z","userId":"667446cbace3c4247e9e0f9d"}
+{"level":"warn","message":"Invalid credentials - user not found","service":"auth-service","timestamp":"2024-06-21T11:03:46.497Z","username":"usertest1"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-21T11:04:10.774Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T11:04:24.872Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T11:04:25.163Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T11:38:35.522Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T11:38:35.815Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T11:38:53.521Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T11:38:53.818Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T12:48:25.119Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T12:48:25.409Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T12:49:18.975Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T12:49:19.075Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-21T13:02:36.865Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-21T13:02:37.212Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-22T19:46:13.343Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T19:46:18.582Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T19:46:18.630Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-22T21:23:08.414Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T21:23:12.462Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T21:23:12.510Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T21:24:58.634Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T21:24:58.688Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T21:25:25.640Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T21:25:25.688Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T21:25:41.937Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T21:25:41.984Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T21:26:47.453Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T21:26:47.506Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T21:59:38.860Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T21:59:38.928Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:22:41.431Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:22:41.492Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:22:45.301Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:22:45.357Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:22:50.125Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:22:50.182Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:23:14.910Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:23:14.970Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:35:11.096Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:35:11.165Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:37:26.160Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:37:26.216Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:53:10.000Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:53:10.061Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:58:53.952Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:58:54.009Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T22:59:30.503Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T22:59:30.562Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:05:19.996Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:05:20.049Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:08:09.545Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:08:09.599Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - user not found","service":"auth-service","timestamp":"2024-06-22T23:08:45.670Z","username":"user2"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:08:49.032Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:08:49.088Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:14:53.217Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:14:53.271Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:22:54.772Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:22:54.825Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - user not found","service":"auth-service","timestamp":"2024-06-22T23:23:18.230Z","username":"user1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:23:21.326Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:23:21.374Z","username":"user2"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:23:24.831Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:23:24.879Z","username":"user2"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:23:32.304Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:23:32.351Z","username":"user2"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:23:58.952Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:23:59.001Z","username":"user2"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:24:04.745Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:24:04.793Z","username":"user2"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:24:09.440Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:24:09.488Z","username":"user2"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:24:12.902Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:24:12.950Z","username":"user2"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:24:16.696Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:24:16.743Z","username":"user2"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-22T23:24:25.910Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:24:28.335Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:24:28.383Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"warn","message":"Invalid credentials - user not found","service":"auth-service","timestamp":"2024-06-22T23:33:39.156Z","username":")))))))*"}
+{"level":"warn","message":"Invalid credentials - user not found","service":"auth-service","timestamp":"2024-06-22T23:33:39.665Z","username":")))))))*"}
+{"level":"warn","message":"Invalid credentials - user not found","service":"auth-service","timestamp":"2024-06-22T23:33:39.700Z","username":")))))))*"}
+{"level":"warn","message":"Invalid credentials - user not found","service":"auth-service","timestamp":"2024-06-22T23:33:39.727Z","username":")))))))*"}
+{"level":"warn","message":"Invalid credentials - user not found","service":"auth-service","timestamp":"2024-06-22T23:33:39.759Z","username":")))))))*"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:35:03.030Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:35:03.084Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:35:11.355Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:35:11.403Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:37:45.546Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:37:45.594Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:40:30.916Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:40:30.964Z","username":"user1"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-22T23:41:12.912Z","userId":"667761180ac47a809ab725bd"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:41:18.522Z","userId":"667761180ac47a809ab725bd"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:41:18.570Z","userId":"667761180ac47a809ab725bd"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:41:53.415Z","userId":"667761180ac47a809ab725bd"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:41:53.463Z","username":"user1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:42:08.116Z","userId":"667761180ac47a809ab725bd"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:42:08.163Z","username":"user1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:49:42.683Z","userId":"667761180ac47a809ab725bd"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:49:42.736Z","username":"user1"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-22T23:49:57.511Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:49:59.368Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:49:59.381Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:50:11.721Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:50:11.733Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:50:33.729Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"warn","message":"Invalid credentials - password mismatch","service":"auth-service","timestamp":"2024-06-22T23:50:33.741Z","username":"user1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:50:38.073Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:50:38.085Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:50:47.241Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:50:47.253Z","userId":"66776325b385ae2e6f4fc701"}
+{"error":"User validation failed: username: Path `username` is required., password: Path `password` is required.","level":"error","message":"Error registering user","service":"auth-service","timestamp":"2024-06-22T23:58:18.398Z"}
+{"error":"User validation failed: username: Path `username` is required., password: Path `password` is required.","level":"error","message":"Error registering user","service":"auth-service","timestamp":"2024-06-22T23:58:21.527Z"}
+{"level":"warn","message":"User already exists","service":"auth-service","timestamp":"2024-06-22T23:58:35.590Z","username":"user2"}
+{"level":"warn","message":"User already exists","service":"auth-service","timestamp":"2024-06-22T23:58:36.895Z","username":"user2"}
+{"level":"info","message":"User registered successfully","service":"auth-service","timestamp":"2024-06-22T23:58:50.389Z","userId":"6677653a27688771a4065ad1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:58:55.340Z","userId":"6677653a27688771a4065ad1"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:58:55.352Z","userId":"6677653a27688771a4065ad1"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:59:10.547Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:59:10.559Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-22T23:59:47.501Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-22T23:59:47.514Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T00:00:45.369Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T00:00:45.381Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T00:06:09.143Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T00:06:09.191Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T00:39:22.470Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T00:39:22.518Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T00:39:31.344Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T00:39:31.356Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T00:39:38.552Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T00:39:38.599Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T00:41:48.283Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T00:41:48.331Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T01:04:00.991Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T01:04:01.045Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:03:29.770Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:03:29.788Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:03:41.294Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:03:41.342Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:05:04.225Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:05:04.240Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:09:50.128Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:09:50.144Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:15:03.512Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:15:03.536Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:15:13.462Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:15:13.520Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:15:49.119Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:15:49.131Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:15:54.562Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:15:54.611Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:18:26.521Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:18:26.534Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:18:31.929Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:18:31.976Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:22:10.873Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:22:10.926Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:22:22.218Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:22:22.230Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:22:33.726Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:22:33.774Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:30:00.888Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:30:00.906Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:30:10.753Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:30:10.801Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:30:20.140Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:30:20.152Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:33:48.092Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:33:48.140Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:39:35.039Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:39:35.057Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:39:46.504Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:39:46.552Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:40:53.043Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:40:53.055Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:42:27.717Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:42:27.734Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:42:33.324Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:42:33.372Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:43:44.079Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:43:44.091Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:49:18.244Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:49:18.262Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:49:27.041Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:49:27.090Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:59:02.521Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:59:02.538Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:59:08.291Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:59:08.340Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:59:11.243Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:59:11.255Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:59:19.852Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:59:19.899Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T10:59:38.995Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T10:59:39.007Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T11:00:38.487Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T11:00:38.499Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T11:01:33.176Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T11:01:33.194Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T11:22:38.294Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T11:22:38.306Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T11:22:47.501Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T11:22:47.514Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T11:22:52.325Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T11:22:52.373Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T11:34:48.700Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T11:34:48.717Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T11:35:10.102Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T11:35:10.150Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:10:53.294Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:10:53.363Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:23:44.559Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:23:44.584Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:23:56.032Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:23:56.092Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:29:09.781Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:29:09.805Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:30:01.948Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:30:02.005Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:40:40.956Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:40:40.979Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:49:43.614Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:49:43.639Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:50:03.521Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:50:03.536Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:50:22.327Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:50:22.384Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:50:32.676Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:50:32.691Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:50:45.348Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:50:45.407Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:52:28.390Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:52:28.404Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:52:37.302Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:52:37.352Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:52:49.086Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:52:49.101Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T12:53:06.305Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T12:53:06.363Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T13:29:23.281Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T13:29:23.335Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T13:42:09.827Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T13:42:09.844Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T13:42:26.658Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T13:42:26.705Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T13:43:04.563Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T13:43:04.575Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T13:43:12.468Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T13:43:12.515Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T13:50:37.883Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T13:50:37.902Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T13:50:42.806Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T13:50:42.854Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T13:51:08.669Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T13:51:08.681Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:00:30.795Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:00:30.848Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:00:40.156Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:00:40.169Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:00:47.837Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:00:47.885Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:07:50.342Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:07:50.360Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:08:03.463Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:08:03.512Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:21:10.544Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:21:10.562Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:21:19.132Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:21:19.180Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:22:22.392Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:22:22.404Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:22:29.624Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:22:29.672Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:22:49.330Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:22:49.342Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:22:55.673Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:22:55.685Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:23:09.018Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:23:09.065Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:23:44.777Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:23:44.789Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:23:52.033Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:23:52.081Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:27:27.862Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:27:27.880Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:27:34.621Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:27:34.668Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:30:52.274Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:30:52.292Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:31:04.363Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:31:04.412Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:31:13.867Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:31:13.879Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:31:23.924Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:31:23.972Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:31:31.124Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:31:31.136Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:31:41.859Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:31:41.907Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:36:39.557Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:36:39.574Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:36:49.732Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:36:49.780Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:36:57.466Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:36:57.478Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:40:19.012Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:40:19.066Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:41:01.211Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:41:01.223Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:41:08.332Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:41:08.379Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:44:00.312Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:44:00.329Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:44:10.544Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:44:10.592Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:44:19.807Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:44:19.819Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:47:13.578Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:47:13.632Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:47:24.651Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:47:24.663Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:47:50.060Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:47:50.108Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:52:26.802Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:52:26.850Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:52:54.916Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:52:54.928Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:53:42.140Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:53:42.188Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:54:38.667Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:54:38.680Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:55:38.827Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:55:38.875Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User found","service":"auth-service","timestamp":"2024-06-23T14:56:57.786Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User logged in successfully","service":"auth-service","timestamp":"2024-06-23T14:56:57.798Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-23T15:59:35.777Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-23T15:59:35.795Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-23T15:59:41.248Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-23T15:59:41.296Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-23T15:59:59.377Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-23T15:59:59.389Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-23T16:02:56.890Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-23T16:02:56.944Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-23T16:04:48.270Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-23T16:04:48.282Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-23T16:04:58.958Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-23T16:04:58.970Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-23T16:15:51.404Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-23T16:15:51.422Z","userId":"66776325b385ae2e6f4fc701"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Erreur lors de la connexion de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T06:49:50.826Z"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Erreur lors de la connexion de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T06:49:57.856Z"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Erreur lors de l'enregistrement de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T06:50:07.820Z"}
+{"level":"info","message":"Utilisateur enregistré avec succès","service":"auth-service","timestamp":"2024-06-24T06:50:49.107Z","userId":"66791748d0014269d676cdf9"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T06:51:00.752Z","userId":"66791748d0014269d676cdf9"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T06:51:00.793Z","username":"Hugo"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T06:51:05.489Z","userId":"66791748d0014269d676cdf9"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T06:51:05.516Z","username":"Hugo"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T06:51:06.612Z","userId":"66791748d0014269d676cdf9"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T06:51:06.640Z","username":"Hugo"}
+{"level":"warn","message":"Identifiants invalides - utilisateur non trouvé","service":"auth-service","timestamp":"2024-06-24T06:51:15.053Z","username":"User1"}
+{"level":"warn","message":"Identifiants invalides - utilisateur non trouvé","service":"auth-service","timestamp":"2024-06-24T06:51:16.189Z","username":"User1"}
+{"level":"warn","message":"Identifiants invalides - utilisateur non trouvé","service":"auth-service","timestamp":"2024-06-24T06:51:19.777Z","username":"User1"}
+{"level":"warn","message":"Identifiants invalides - utilisateur non trouvé","service":"auth-service","timestamp":"2024-06-24T06:52:06.668Z","username":"User1"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T06:52:21.127Z","userId":"66791748d0014269d676cdf9"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T06:52:21.151Z","username":"Hugo"}
+{"error":"connect ETIMEDOUT 52.47.184.107:27017","level":"error","message":"Erreur lors de la connexion de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T08:32:40.706Z"}
+{"error":"connect ETIMEDOUT 52.47.184.107:27017","level":"error","message":"Erreur lors de la connexion de l'utilisateur","service":"auth-service","timestamp":"2024-06-24T08:32:55.147Z"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T13:51:57.305Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-24T13:51:57.397Z","userId":"66755e2a501d969485cdf9a1"}
+{"level":"info","message":"Utilisateur enregistré avec succès","service":"auth-service","timestamp":"2024-06-24T13:52:09.141Z","userId":"66797a09437199085c461e58"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T13:52:17.938Z","userId":"66797a09437199085c461e58"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T13:52:17.959Z","username":"hugo"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T13:52:19.051Z","userId":"66797a09437199085c461e58"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T13:52:19.074Z","username":"hugo"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T13:52:19.217Z","userId":"66797a09437199085c461e58"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T13:52:19.242Z","username":"hugo"}
+{"level":"info","message":"Utilisateur enregistré avec succès","service":"auth-service","timestamp":"2024-06-24T13:53:33.334Z","userId":"66797a5d437199085c461e5e"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T13:53:35.236Z","userId":"66797a5d437199085c461e5e"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T13:53:35.310Z","username":"hugo"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T13:56:35.326Z","userId":"66797a5d437199085c461e5e"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T13:56:35.372Z","username":"hugo"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T13:56:46.026Z","userId":"66797a5d437199085c461e5e"}
+{"level":"warn","message":"Identifiants invalides - mot de passe incorrect","service":"auth-service","timestamp":"2024-06-24T13:56:46.092Z","username":"hugo"}
+{"level":"info","message":"Utilisateur enregistré avec succès","service":"auth-service","timestamp":"2024-06-24T14:16:12.653Z","userId":"66797fac70ce7d47433d7994"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T14:16:15.144Z","userId":"66797fac70ce7d47433d7994"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-24T14:16:15.435Z","userId":"66797fac70ce7d47433d7994"}
+{"level":"info","message":"Utilisateur enregistré avec succès","service":"auth-service","timestamp":"2024-06-24T14:19:40.694Z","userId":"6679807c70ce7d47433d79a0"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T14:19:47.109Z","userId":"6679807c70ce7d47433d79a0"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-24T14:19:47.400Z","userId":"6679807c70ce7d47433d79a0"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T14:21:21.280Z","userId":"6679807c70ce7d47433d79a0"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-24T14:21:21.636Z","userId":"6679807c70ce7d47433d79a0"}
+{"level":"info","message":"Utilisateur trouvé","service":"auth-service","timestamp":"2024-06-24T14:25:22.174Z","userId":"667981c470ce7d47433d79af"}
+{"level":"info","message":"Utilisateur connecté avec succès","service":"auth-service","timestamp":"2024-06-24T14:25:22.230Z","userId":"667981c470ce7d47433d79af"}

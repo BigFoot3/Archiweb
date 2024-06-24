@@ -1,0 +1,29 @@
+{"level":"info","message":"New assignment request created","requestId":"667810c36649b366d8a9d18a","service":"request-service","timestamp":"2024-06-23T12:10:43.348Z"}
+{"level":"info","message":"New assignment request created","requestId":"667811ccba2c1f6c017984db","service":"request-service","timestamp":"2024-06-23T12:15:08.443Z"}
+{"level":"info","message":"New assignment request created","requestId":"667813d4ba2c1f6c017984fb","service":"request-service","timestamp":"2024-06-23T12:23:48.039Z"}
+{"level":"info","message":"Assignment request processed","requestId":"667813d4ba2c1f6c017984fb","service":"request-service","status":"approved","timestamp":"2024-06-23T12:28:54.670Z"}
+{"level":"info","message":"Assignment request processed","requestId":"667811ccba2c1f6c017984db","service":"request-service","status":"rejected","timestamp":"2024-06-23T12:28:57.298Z"}
+{"level":"info","message":"New assignment request created","requestId":"66781545a23f43be80fd21ba","service":"request-service","timestamp":"2024-06-23T12:29:57.048Z"}
+{"level":"info","message":"Assignment request processed","requestId":"66781545a23f43be80fd21ba","service":"request-service","status":"approved","timestamp":"2024-06-23T12:30:04.813Z"}
+{"level":"info","message":"New assignment request created","requestId":"66781a0520c16a3acc6b9602","service":"request-service","timestamp":"2024-06-23T12:50:13.952Z"}
+{"level":"info","message":"Assignment request processed","requestId":"66781a0520c16a3acc6b9602","service":"request-service","status":"approved","timestamp":"2024-06-23T12:50:24.845Z"}
+{"level":"info","message":"New assignment request created","requestId":"66781a9120c16a3acc6b9631","service":"request-service","timestamp":"2024-06-23T12:52:33.193Z"}
+{"level":"info","message":"Assignment request processed","requestId":"66781a9120c16a3acc6b9631","service":"request-service","status":"approved","timestamp":"2024-06-23T12:52:40.452Z"}
+{"level":"info","message":"New assignment request created","requestId":"6678263eb22ad2915b079e00","service":"request-service","timestamp":"2024-06-23T13:42:22.183Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Approving request","requestId":"667831a3f8ad8e8ddfa56003","service":"request-service","timestamp":"2024-06-23T14:40:21.700Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Saving updated material","service":"request-service","timestamp":"2024-06-23T14:40:21.714Z"}
+{"level":"info","message":"Removing request","requestId":"667831a3f8ad8e8ddfa56003","service":"request-service","timestamp":"2024-06-23T14:40:21.727Z"}
+{"error":"request.remove is not a function","level":"error","message":"Failed to approve request","service":"request-service","timestamp":"2024-06-23T14:40:21.727Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Approving request","requestId":"66783400fce5df9a7ec3cd13","service":"request-service","timestamp":"2024-06-23T14:41:12.862Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Saving updated material","service":"request-service","timestamp":"2024-06-23T14:41:12.875Z"}
+{"level":"info","message":"Removing request","requestId":"66783400fce5df9a7ec3cd13","service":"request-service","timestamp":"2024-06-23T14:41:12.888Z"}
+{"error":"request.remove is not a function","level":"error","message":"Failed to approve request","service":"request-service","timestamp":"2024-06-23T14:41:12.888Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Approving request","requestId":"66783400fce5df9a7ec3cd13","service":"request-service","timestamp":"2024-06-23T14:43:49.630Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Saving updated material","service":"request-service","timestamp":"2024-06-23T14:43:49.646Z"}
+{"level":"info","message":"Removing request","requestId":"66783400fce5df9a7ec3cd13","service":"request-service","timestamp":"2024-06-23T14:43:49.656Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Approving request","requestId":"6678356cfa9fd05a53bb165d","service":"request-service","timestamp":"2024-06-23T14:47:21.476Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Saving updated material","service":"request-service","timestamp":"2024-06-23T14:47:21.491Z"}
+{"level":"info","message":"Removing request","requestId":"6678356cfa9fd05a53bb165d","service":"request-service","timestamp":"2024-06-23T14:47:21.502Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Approving request","requestId":"66783732fa9fd05a53bb168f","service":"request-service","timestamp":"2024-06-23T14:56:38.162Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Saving updated material","service":"request-service","timestamp":"2024-06-23T14:56:38.176Z"}
+{"level":"info","message":"Removing request","requestId":"66783732fa9fd05a53bb168f","service":"request-service","timestamp":"2024-06-23T14:56:38.189Z"}

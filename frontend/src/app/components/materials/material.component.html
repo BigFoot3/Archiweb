@@ -1,0 +1,57 @@
+<div class="materials-container">
+  <h2>Liste des Matériels</h2>
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+  <div *ngIf="successMessage" class="success">
+    {{ successMessage }}
+  </div>
+  
+  <!-- Formulaire de création de matériel pour les administrateurs -->
+  <div *ngIf="isAdmin()">
+    <h3>Créer un nouveau matériel</h3>
+    <form (ngSubmit)="createMaterial()">
+      <label for="name">Nom</label>
+      <input type="text" id="name" [(ngModel)]="newMaterial.name" name="name" required>
+      
+      <label for="type">Type</label>
+      <input type="text" id="type" [(ngModel)]="newMaterial.type" name="type" required>
+      
+      <label for="location">Localisation</label>
+      <input type="text" id="location" [(ngModel)]="newMaterial.location" name="location" required>
+      
+      <label for="status">Statut</label>
+      <select id="status" [(ngModel)]="newMaterial.status" name="status" required>
+        <option value="stocked">Stocké</option>
+        <option value="used">Utilisé</option>
+      </select>
+      
+      <button type="submit">Créer</button>
+    </form>
+  </div>
+  
+  <ul>
+    <li *ngFor="let material of materials">
+      <div>
+        <h3>{{ material.name }}</h3>
+        <p>Type: {{ material.type }}</p>
+        <p>Status: {{ material.status }}</p>
+        <p>Location: {{ material.location }}</p>
+        <p>Assigné à: {{ material.assignedTo.id?.username || 'département informatique' }}</p>
+        <div *ngIf="material.status === 'stocked'">
+          <label for="location-{{material._id}}">Nouvelle Localisation</label>
+          <input type="text" id="location-{{material._id}}" [(ngModel)]="material.newLocation">
+          <button (click)="assignRequest(material)" [disabled]="material.status === 'used' || material.status === 'in progress'">
+            Demande d'assignation
+          </button>
+        </div>
+        <div *ngIf="material.status === 'used' && material.assignedTo.id._id === userId">
+          <button (click)="returnMaterial(material._id)">Retourner le matériel</button>
+        </div>
+        <div *ngIf="isAdmin()">
+          <button (click)="deleteMaterial(material._id)">Supprimer</button>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,575 @@
+{"error":"Material validation failed: name: Path `name` is required., type: Path `type` is required., status: Path `status` is required.","level":"error","message":"Failed to add material","service":"material-service","timestamp":"2024-06-19T19:15:23.563Z"}
+{"error":"Material validation failed: name: Path `name` is required., type: Path `type` is required., status: Path `status` is required.","level":"error","message":"Failed to add material","service":"material-service","timestamp":"2024-06-19T19:16:01.983Z"}
+{"error":"Material validation failed: name: Path `name` is required., type: Path `type` is required., status: Path `status` is required.","level":"error","message":"Failed to add material","service":"material-service","timestamp":"2024-06-19T19:51:06.719Z"}
+{"count":0,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-20T09:12:20.931Z"}
+{"level":"info","materialId":"66744106ace3c4247e9e0f95","message":"New material added","service":"material-service","timestamp":"2024-06-20T14:47:34.318Z"}
+{"level":"info","materialId":"66744106ace3c4247e9e0f95","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-20T15:04:50.456Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"New material added","service":"material-service","timestamp":"2024-06-20T15:08:47.361Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-20T15:09:48.490Z"}
+{"level":"warn","message":"Material not found on assign","service":"material-service","timestamp":"2024-06-20T15:22:52.057Z"}
+{"level":"warn","message":"Material not found on assign","service":"material-service","timestamp":"2024-06-20T15:24:45.495Z"}
+{"level":"warn","message":"Material not found on assign","service":"material-service","timestamp":"2024-06-20T15:26:10.988Z"}
+{"error":"Material validation failed: assignedTo.type: `user` is not a valid enum value for path `assignedTo.type`.","level":"error","materialId":"667445fface3c4247e9e0f98","message":"Error assigning material","service":"material-service","timestamp":"2024-06-20T15:26:53.680Z"}
+{"error":"Material validation failed: assignedTo.type: `used` is not a valid enum value for path `assignedTo.type`.","level":"error","materialId":"667445fface3c4247e9e0f98","message":"Error assigning material","service":"material-service","timestamp":"2024-06-20T15:27:13.411Z"}
+{"assigneeId":"66743d6fbbacb77af2faa1f0","assigneeType":"User","level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-20T15:27:48.915Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-20T15:45:51.647Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-20T19:31:20.440Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T19:46:18.647Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:23:12.527Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:24:58.705Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:25:25.705Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:25:42.001Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:26:47.524Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T21:26:48.560Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:26:48.571Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:42:14.102Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:42:29.415Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:44:04.859Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:44:25.772Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","materialId":"66774574ca49541b159561db","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T21:44:40.300Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:44:40.311Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:44:41.884Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:46:22.822Z"}
+{"error":"location is not defined","level":"error","materialId":"66774574ca49541b159561db","message":"Error assigning material","service":"material-service","timestamp":"2024-06-22T21:46:25.064Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:46:59.779Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 104","materialId":"66774574ca49541b159561db","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T21:47:01.792Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:47:01.802Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:58:36.530Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:59:05.436Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:59:06.829Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:59:19.308Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:59:21.226Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T21:59:23.894Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:59:38.949Z"}
+{"level":"info","materialId":"66774574ca49541b159561db","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T21:59:40.743Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:59:43.299Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T21:59:54.747Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T21:59:54.758Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T21:59:56.337Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:01:10.282Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:01:12.779Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:01:12.791Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:01:14.406Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:01:19.879Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:02:30.274Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:02:44.496Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:02:46.546Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:02:46.556Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:02:47.378Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:02:47.390Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:03:21.016Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:03:21.029Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:03:22.533Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:03:22.544Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:06:23.994Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:06:24.007Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:06:25.571Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:06:25.584Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:08:24.082Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:08:41.428Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:08:46.729Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:08:49.820Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:08:49.830Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:08:51.070Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:08:51.081Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:10:29.607Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:10:29.619Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:10:37.437Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:10:37.449Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:10:51.242Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:10:51.254Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:10:56.901Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:10:56.913Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:12:57.441Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:17:25.444Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:18:05.618Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:18:11.244Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:18:11.268Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:18:43.771Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:19:03.444Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:19:08.437Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:19:17.286Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 104","materialId":"66774574ca49541b159561db","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:19:20.176Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:19:20.194Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:20:11.430Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:20:13.430Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:20:18.442Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:22:17.715Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:22:26.448Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:22:29.427Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:22:32.045Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:22:41.518Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:22:45.383Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:22:50.209Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:23:03.858Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:23:05.716Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:23:14.994Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:32:14.066Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:32:32.195Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:33:42.889Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:34:53.451Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:34:57.445Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:35:00.403Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:35:02.074Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:35:02.092Z"}
+{"assigneeId":"667740bce2496b117f6dd89b","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:35:04.861Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:35:04.881Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:35:07.485Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:35:07.505Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:35:11.190Z"}
+{"assigneeId":"66772a0525d1eb1c84fba826","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:35:13.689Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:35:13.710Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-22T22:37:17.618Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:37:17.639Z"}
+{"assigneeId":"66772a0525d1eb1c84fba826","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-22T22:37:20.877Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:37:20.897Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:37:26.242Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:46:12.512Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:46:15.443Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:46:29.426Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:53:10.093Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:53:18.369Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:54:35.451Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:55:16.126Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:58:54.032Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T22:59:30.589Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:05:20.078Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:08:09.629Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:08:49.114Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:14:53.302Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:22:51.345Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:22:54.849Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:24:28.407Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:24:51.981Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:25:27.218Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:28:28.495Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:28:38.441Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:28:58.617Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:29:57.488Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:35:03.112Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:35:07.045Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:35:11.426Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:37:45.617Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:41:18.594Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:49:59.406Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:50:11.758Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:50:29.909Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:50:38.116Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:50:47.275Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:58:55.380Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:59:05.063Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:59:10.581Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-22T23:59:47.535Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:00:45.402Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:01:36.174Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T00:01:49.152Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:01:49.169Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:06:09.214Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:34:50.384Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:35:11.851Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:35:18.589Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:38:11.905Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:39:22.539Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:39:27.977Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:39:31.376Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:39:38.621Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T00:41:48.353Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T01:04:01.073Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:03:29.815Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:03:41.364Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:05:04.267Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:05:07.552Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:05:07.571Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:09:50.168Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:14:19.487Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:14:22.435Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:14:48.360Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:15:03.562Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:15:06.325Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:15:06.342Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:15:13.543Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:15:22.344Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:15:23.975Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:15:49.154Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:15:54.632Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:16:51.565Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:16:56.535Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:16:58.504Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:17:06.532Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:18:26.555Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:18:31.999Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:20:54.544Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:21:05.454Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:21:15.542Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:21:59.799Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:22:10.954Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:22:22.252Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:22:23.148Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:22:23.166Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:22:24.885Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:22:24.903Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:22:33.798Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:30:00.933Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:30:02.228Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:30:02.246Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:30:04.038Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:30:04.055Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:30:10.824Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:30:20.173Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:30:21.119Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:30:21.135Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:32:48.466Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:32:58.452Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:33:41.002Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:33:43.812Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:33:43.830Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:33:48.162Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:39:35.085Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:39:35.930Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:39:35.948Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:39:37.871Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:39:37.889Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:39:46.575Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:40:42.354Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:40:53.077Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:40:54.556Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:40:54.574Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:41:03.092Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:41:03.112Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:41:27.947Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:41:27.964Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:42:22.793Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:42:27.759Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:42:29.454Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:42:29.471Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:42:33.394Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:43:44.115Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:43:47.435Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:43:47.453Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:49:14.944Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:49:18.284Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:49:20.894Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:49:20.946Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:49:27.114Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:52:19.210Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:58:55.717Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:02.563Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:59:03.351Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:03.369Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:08.364Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:11.276Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:59:14.826Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:14.846Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:19.923Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:35.025Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:35.976Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:39.031Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T10:59:39.793Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:39.811Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T10:59:41.528Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T10:59:41.546Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:00:38.522Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T11:00:39.613Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:00:39.630Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:00:42.606Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:01:33.223Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T11:01:35.191Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:01:35.208Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:03:01.304Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:08:43.531Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:09:39.430Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:13:09.438Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:13:19.415Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:13:28.423Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:15:55.597Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:15:56.509Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:28.195Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:30.956Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T11:22:32.862Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:32.878Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T11:22:34.682Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:34.698Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:38.329Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T11:22:39.572Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:39.589Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T11:22:41.388Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:41.405Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T11:22:42.530Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:42.546Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:47.535Z"}
+{"assigneeId":"66776325b385ae2e6f4fc701","assigneeType":"User","level":"info","location":"Salle 101","materialId":"667445fface3c4247e9e0f98","message":"Material assigned successfully","service":"material-service","timestamp":"2024-06-23T11:22:49.069Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:49.085Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:22:52.394Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:28:57.340Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:34:48.744Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:35:10.174Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T11:59:47.957Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:06:28.488Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:06:29.789Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:06:53.431Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:07:23.876Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:08:09.460Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:10:40.348Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:10:43.369Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:10:49.961Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:10:53.387Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:14:51.471Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:14:51.496Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:14:57.004Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:15:08.466Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:15:31.202Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:22:18.997Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:22:19.048Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:23:14.302Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:23:14.325Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:23:27.190Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:23:27.372Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:23:31.058Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:23:44.608Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:23:48.058Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:23:56.115Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:24:54.967Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:29:09.833Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:29:57.070Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:30:02.033Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:30:07.300Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:35:10.990Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:35:34.774Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:39:56.423Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:40:36.944Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:40:41.005Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:42:51.078Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:49:09.718Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:49:17.715Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:49:43.670Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:50:03.561Z"}
+{"level":"info","materialId":"66774574ca49541b159561db","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T12:50:11.985Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:50:12.004Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:50:13.973Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:50:22.410Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:50:29.110Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:50:32.715Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:50:42.521Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:50:45.431Z"}
+{"level":"info","materialId":"66774574ca49541b159561db","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T12:51:45.072Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:51:45.092Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:17.229Z"}
+{"level":"info","materialId":"667765c57ddb510b107b64e0","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T12:52:20.427Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:20.445Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:28.427Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T12:52:29.219Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:29.230Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:33.204Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:37.368Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:43.323Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:49.125Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T12:52:51.076Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:52:51.088Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:53:06.380Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:53:23.731Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:57:05.005Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:58:07.515Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:58:28.453Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T12:59:44.965Z"}
+{"level":"info","materialId":"66781c5f20c16a3acc6b9653","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:00:15.295Z"}
+{"count":4,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:00:15.306Z"}
+{"count":4,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:02:53.388Z"}
+{"count":4,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:09:53.161Z"}
+{"count":4,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:10:35.132Z"}
+{"count":4,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:10:40.504Z"}
+{"count":4,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:11:32.486Z"}
+{"level":"info","materialId":"667765c57ddb510b107b64e0","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:11:36.290Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:11:41.050Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:15:38.847Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:15:52.345Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:16:10.486Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:16:33.420Z"}
+{"level":"info","materialId":"667445fface3c4247e9e0f98","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:16:35.267Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:16:39.926Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:18:05.277Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:18:15.466Z"}
+{"level":"info","materialId":"66774574ca49541b159561db","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:18:17.823Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:18:19.889Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:18:44.045Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:20:01.886Z"}
+{"level":"info","materialId":"667821192a1aefdf5b1135bc","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:20:25.737Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:20:25.751Z"}
+{"level":"info","materialId":"667821192a1aefdf5b1135bc","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:20:29.638Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:21:47.422Z"}
+{"level":"info","materialId":"66782177188f8532de35b12a","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:21:59.185Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:21:59.197Z"}
+{"level":"info","materialId":"66782177188f8532de35b12a","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:22:02.118Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:23:02.460Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:23:09.043Z"}
+{"level":"info","materialId":"667821c4188f8532de35b130","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:23:16.673Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:23:16.685Z"}
+{"level":"info","materialId":"667821c4188f8532de35b130","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:23:18.314Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:26:41.229Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:27:19.576Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:28:48.218Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:28:50.467Z"}
+{"level":"info","materialId":"66782317188f8532de35b138","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:28:55.230Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:28:55.240Z"}
+{"level":"info","materialId":"66782317188f8532de35b138","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:28:56.980Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:28:59.888Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:29:09.116Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:29:23.356Z"}
+{"level":"info","materialId":"6678233875ba5f5fa1455521","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:29:28.672Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:29:28.684Z"}
+{"level":"info","materialId":"6678233875ba5f5fa1455521","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:29:31.266Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:30:18.288Z"}
+{"level":"info","materialId":"6678237075ba5f5fa1455526","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:30:24.441Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:30:24.452Z"}
+{"level":"info","materialId":"6678237075ba5f5fa1455526","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:30:27.964Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:33:53.196Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:34:06.976Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:34:46.971Z"}
+{"level":"info","materialId":"6678247b1c65efb9e447a2ba","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:34:51.993Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:34:52.004Z"}
+{"level":"info","materialId":"6678247b1c65efb9e447a2ba","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:34:53.850Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:34:59.106Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:41:33.534Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:41:38.027Z"}
+{"level":"info","materialId":"66782617b22ad2915b079df8","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:41:43.884Z"}
+{"count":3,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:41:43.894Z"}
+{"level":"info","materialId":"66782617b22ad2915b079df8","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:41:46.137Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:41:46.147Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:42:09.862Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:42:22.194Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:42:26.720Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:43:04.590Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:43:12.531Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:50:37.918Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:50:42.869Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:50:51.892Z"}
+{"level":"info","materialId":"66781c5f20c16a3acc6b9653","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T13:50:54.885Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:50:54.896Z"}
+{"level":"info","materialId":"66782844e29c1af02b8c38fb","message":"New material added","service":"material-service","timestamp":"2024-06-23T13:51:00.399Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:51:00.410Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:51:08.696Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:51:53.678Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T13:59:44.526Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:00:19.259Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:00:24.845Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:00:30.866Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:00:40.184Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:00:43.843Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:00:47.910Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:01:22.812Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:07:50.388Z"}
+{"level":"info","materialId":"667820aca0ac55fbbdb8b110","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:07:52.776Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:07:52.787Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:07:54.902Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:08:03.528Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:21:10.590Z"}
+{"level":"info","materialId":"667820aca0ac55fbbdb8b110","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:21:13.400Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:21:13.411Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:21:15.247Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:21:19.197Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:21:51.737Z"}
+{"level":"info","materialId":"667820aca0ac55fbbdb8b110","message":"Material deleted successfully","service":"material-service","timestamp":"2024-06-23T14:21:56.750Z"}
+{"count":1,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:21:56.761Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"New material added","service":"material-service","timestamp":"2024-06-23T14:22:04.275Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:22:04.286Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:22:22.420Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:22:25.471Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:22:29.686Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:22:43.257Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:22:49.357Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:22:55.701Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:23:03.333Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:23:09.083Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:23:39.063Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:23:44.806Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:23:47.119Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:23:52.097Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:27:27.898Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:27:30.688Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:27:34.685Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:30:52.318Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:30:56.672Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:30:56.683Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:30:59.796Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:31:04.428Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:31:13.901Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:31:18.098Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:31:18.112Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:31:19.884Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:31:23.993Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:31:31.152Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:31:37.735Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:31:41.923Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:36:39.599Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:36:40.764Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:36:40.775Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:36:44.744Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:36:49.796Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:36:57.500Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:39:49.618Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:40:07.457Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:40:11.833Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:40:12.802Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:40:12.813Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:40:14.892Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:40:19.082Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:41:01.246Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:41:02.602Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:41:02.614Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:41:05.027Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:41:08.395Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:44:00.355Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:44:01.485Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:44:01.496Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:44:03.568Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:44:10.608Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:44:19.834Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:47:05.893Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:47:08.589Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:47:13.650Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:47:24.688Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:47:50.132Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:47:59.789Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:52:26.874Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:52:54.951Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:53:35.959Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:53:42.211Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:54:34.751Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:54:38.702Z"}
+{"level":"info","materialId":"66782f8c89f2ad25d19e566b","message":"Material returned successfully","service":"material-service","timestamp":"2024-06-23T14:54:40.043Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:54:40.053Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:54:42.213Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:55:38.891Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T14:56:57.821Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:05:06.479Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:06:27.469Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:08:33.460Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:09:28.489Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:10:57.467Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:12:19.463Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:14:11.590Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:14:31.529Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:15:50.607Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:15:52.006Z"}
+{"count":2,"level":"info","message":"Retrieved all materials","service":"material-service","timestamp":"2024-06-23T15:16:12.499Z"}
+{"count":2,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T15:59:35.825Z"}
+{"count":2,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T15:59:41.319Z"}
+{"count":2,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T15:59:59.410Z"}
+{"count":2,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T16:00:02.073Z"}
+{"count":2,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T16:01:40.820Z"}
+{"count":2,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T16:02:56.975Z"}
+{"level":"info","materialId":"66784737d14ee6750a1b068f","message":"Nouveau matériel ajouté","service":"material-service","timestamp":"2024-06-23T16:03:03.586Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T16:03:03.604Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T16:04:31.402Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T16:04:48.305Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T16:04:58.993Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-23T16:15:51.452Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T13:51:57.452Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:16:15.536Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:17:17.729Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:19:47.470Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:20:24.270Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:20:25.515Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:21:16.481Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:21:21.699Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:25:22.319Z"}
+{"count":3,"level":"info","message":"Tous les matériels récupérés","service":"material-service","timestamp":"2024-06-24T14:25:49.447Z"}

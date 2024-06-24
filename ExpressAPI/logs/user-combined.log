@@ -1,0 +1,50 @@
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:22:43.660Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:22:56.497Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User updated successfully","service":"user-service","timestamp":"2024-06-22T23:23:12.476Z","userId":"667740bce2496b117f6dd89b"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:24:29.740Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:35:05.840Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:35:12.375Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:37:49.807Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:39:00.406Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User updated successfully","service":"user-service","timestamp":"2024-06-22T23:40:24.596Z","userId":"66775d29697f4a5cebd11fd7"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:41:20.171Z","userId":"667761180ac47a809ab725bd"}
+{"level":"info","message":"User updated successfully","service":"user-service","timestamp":"2024-06-22T23:41:45.183Z","userId":"667761180ac47a809ab725bd"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:41:48.957Z","userId":"667761180ac47a809ab725bd"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:50:01.454Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User updated successfully","service":"user-service","timestamp":"2024-06-22T23:50:06.001Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:50:13.093Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User updated successfully","service":"user-service","timestamp":"2024-06-22T23:50:27.035Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:50:39.829Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User updated successfully","service":"user-service","timestamp":"2024-06-22T23:50:42.194Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:51:00.551Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-22T23:59:03.344Z","userId":"6677653a27688771a4065ad1"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T00:01:54.174Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"warn","message":"Unauthorized attempt to add user","service":"user-service","timestamp":"2024-06-23T00:56:38.291Z"}
+{"level":"warn","message":"Unauthorized attempt to add user","service":"user-service","timestamp":"2024-06-23T00:56:55.052Z"}
+{"level":"warn","message":"Unauthorized attempt to add user","service":"user-service","timestamp":"2024-06-23T00:59:13.126Z"}
+{"level":"warn","message":"Unauthorized attempt to add user","service":"user-service","timestamp":"2024-06-23T00:59:22.904Z"}
+{"level":"info","message":"New user added","role":"admin","service":"user-service","timestamp":"2024-06-23T01:04:17.152Z","userId":"66777491d61f52535695f00d"}
+{"error":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: \"user3\" }","level":"error","message":"Failed to add user","service":"user-service","timestamp":"2024-06-23T01:04:27.782Z"}
+{"level":"info","message":"User deleted successfully","service":"user-service","timestamp":"2024-06-23T01:04:30.587Z","userId":"6677653a27688771a4065ad1"}
+{"level":"info","message":"New user added","role":"user","service":"user-service","timestamp":"2024-06-23T01:04:31.801Z","userId":"6677749fd61f52535695f013"}
+{"level":"info","message":"User deleted successfully","service":"user-service","timestamp":"2024-06-23T01:05:07.851Z","userId":"6677749fd61f52535695f013"}
+{"level":"info","message":"New user added","role":"user","service":"user-service","timestamp":"2024-06-23T01:05:11.997Z","userId":"667774c76264b694fe07ad68"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T10:15:21.297Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T10:15:23.088Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T10:15:24.823Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T10:15:27.441Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T10:15:37.853Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T10:49:22.454Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T12:50:41.605Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T12:53:22.511Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T14:47:57.871Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"User details retrieved successfully","service":"user-service","timestamp":"2024-06-23T14:53:17.054Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Détails de l'utilisateur récupérés avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:00:01.476Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur mis à jour avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:04:27.916Z","userId":"66743d6fbbacb77af2faa1f0"}
+{"level":"info","message":"Détails de l'utilisateur récupérés avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:04:31.850Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"Utilisateur mis à jour avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:04:35.035Z","userId":"66743d6fbbacb77af2faa1f0"}
+{"level":"info","message":"Utilisateur mis à jour avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:04:38.174Z","userId":"66743d6fbbacb77af2faa1f0"}
+{"level":"info","message":"Utilisateur mis à jour avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:04:39.181Z","userId":"66743d6fbbacb77af2faa1f0"}
+{"level":"info","message":"Détails de l'utilisateur récupérés avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:04:41.641Z","userId":"66772a0525d1eb1c84fba826"}
+{"level":"info","message":"Utilisateur mis à jour avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:04:45.107Z","userId":"66776325b385ae2e6f4fc701"}
+{"level":"info","message":"Utilisateur mis à jour avec succès","service":"service-utilisateur","timestamp":"2024-06-23T16:04:56.029Z","userId":"66776325b385ae2e6f4fc701"}
